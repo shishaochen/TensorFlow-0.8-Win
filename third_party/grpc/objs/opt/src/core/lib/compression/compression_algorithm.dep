@@ -1,0 +1,14 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/compression/compression_algorithm.o: \
+ src/core/lib/compression/compression_algorithm.c \
+ include/grpc/compression.h include/grpc/impl/codegen/compression_types.h \
+ include/grpc/impl/codegen/port_platform.h include/grpc/support/useful.h \
+ src/core/lib/compression/algorithm_metadata.h \
+ src/core/lib/transport/metadata.h include/grpc/support/slice.h \
+ include/grpc/impl/codegen/slice.h include/grpc/impl/codegen/sync.h \
+ include/grpc/impl/codegen/sync_generic.h include/grpc/impl/codegen/atm.h \
+ include/grpc/impl/codegen/atm_gcc_atomic.h \
+ include/grpc/impl/codegen/sync_posix.h include/grpc/impl/codegen/time.h \
+ src/core/lib/surface/api_trace.h include/grpc/support/log.h \
+ include/grpc/impl/codegen/log.h src/core/lib/debug/trace.h \
+ include/grpc/support/port_platform.h \
+ src/core/lib/transport/static_metadata.h

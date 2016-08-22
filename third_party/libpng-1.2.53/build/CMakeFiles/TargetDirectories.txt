@@ -1,0 +1,7 @@
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/list_install_components.dir
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/png12_static.dir
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/test.dir
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/rebuild_cache.dir
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/edit_cache.dir
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/install.dir
+D:/cmakeTF/tensorflow0.8/third_party/libpng-1.2.53/build/CMakeFiles/install/local.dir

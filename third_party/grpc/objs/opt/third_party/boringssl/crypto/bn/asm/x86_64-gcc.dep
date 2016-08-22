@@ -1,0 +1,6 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/bn/asm/x86_64-gcc.o: \
+ third_party/boringssl/crypto/bn/asm/x86_64-gcc.c \
+ third_party/boringssl/include/openssl/bn.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/thread.h

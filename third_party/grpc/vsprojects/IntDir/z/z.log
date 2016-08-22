@@ -1,0 +1,30 @@
+﻿Build started 5/19/2016 3:04:55 PM.
+     1>Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\z\z.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\tensorflow0.8\third_party\grpc\vsprojects\\.. /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\protobuf\src /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.zlib.1.2.8.10\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.openssl.1.0.204.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gflags.2.1.2.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gtest.1.7.0.1\build\native\include /Zi /nologo /W3 /WX /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _LIB /D _WIN32_WINNT=0x600 /D _SCL_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\z\\" /Fd"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\z\vc120.pdb" /Gd /TC /errorReport:prompt D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\adler32.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\compress.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\crc32.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\deflate.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzclose.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzlib.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzread.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzwrite.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\infback.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\inffast.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\inflate.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\inftrees.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\trees.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\uncompr.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\zutil.c
+         adler32.c
+         compress.c
+         crc32.c
+         deflate.c
+         gzclose.c
+         gzlib.c
+     1>D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzlib.c(245): error C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(336) : see declaration of 'open'
+         gzread.c
+     1>D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzread.c(30): error C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _read. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(337) : see declaration of 'read'
+         gzwrite.c
+     1>D:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\zlib\gzwrite.c(84): error C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(342) : see declaration of 'write'
+         infback.c
+         inffast.c
+         inflate.c
+         inftrees.c
+         trees.c
+         uncompr.c
+         zutil.c
+     1>Done Building Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\z\z.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.84

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\product_small.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{79D243C1-0CB9-34D3-9B64-EBE8E447BDB0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

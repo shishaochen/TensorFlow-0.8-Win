@@ -1,0 +1,5 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/boringssl/err_data.o: \
+ src/boringssl/err_data.c third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/err.h \
+ third_party/boringssl/include/openssl/type_check.h

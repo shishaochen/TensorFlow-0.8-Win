@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (gmock.vcxproj, gmock_main.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gmock_all_test.cc
+E:\msvc\tensorflow0.8\gmock\test/gmock-generated-function-mockers_test.cc(134): warning C4373: 'testing::gmock_generated_function_mockers_test::MockFoo::TakesConst': virtual function overrides 'testing::gmock_generated_function_mockers_test::FooInterface::TakesConst', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers
+  E:\msvc\tensorflow0.8\gmock\test/gmock-generated-function-mockers_test.cc(91): note: see declaration of 'testing::gmock_generated_function_mockers_test::FooInterface::TakesConst'
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2658): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2652): note: while compiling class template member function 'testing::gmock_matchers_test::FloatingPointTest<float>::FloatingPointTest(void)'
+  E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2842): note: see reference to function template instantiation 'testing::gmock_matchers_test::FloatingPointTest<float>::FloatingPointTest(void)' being compiled
+  E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2842): note: see reference to class template instantiation 'testing::gmock_matchers_test::FloatingPointTest<float>' being compiled
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2660): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2662): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2663): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2664): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2667): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+E:\msvc\tensorflow0.8\gmock\test/gmock-matchers_test.cc(2669): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  Generating code
+  All 42130 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gmock_test.vcxproj -> E:\msvc\tensorflow0.8\gmock\msvc\2010\x64\Release\gmock_test.exe

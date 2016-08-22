@@ -1,0 +1,10 @@
+prefix=C:/Program Files/libpng
+exec_prefix=C:/Program Files/libpng
+libdir=C:/Program Files/libpng/lib
+includedir=C:/Program Files/libpng/include/libpng12
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.2.53
+Libs: -LC:/Program Files/libpng/lib -lpng12
+Cflags: -IC:/Program Files/libpng/include

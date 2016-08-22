@@ -1,0 +1,7 @@
+﻿  cpp_generator.cc
+  csharp_generator.cc
+  node_generator.cc
+  objective_c_generator.cc
+  python_generator.cc
+  ruby_generator.cc
+  grpc_plugin_support.vcxproj -> E:\msvc\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_plugin_support.lib

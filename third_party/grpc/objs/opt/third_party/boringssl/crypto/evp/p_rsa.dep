@@ -1,0 +1,27 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/evp/p_rsa.o: \
+ third_party/boringssl/crypto/evp/p_rsa.c \
+ third_party/boringssl/include/openssl/evp.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/thread.h \
+ third_party/boringssl/include/openssl/aead.h \
+ third_party/boringssl/include/openssl/base64.h \
+ third_party/boringssl/include/openssl/cipher.h \
+ third_party/boringssl/include/openssl/digest.h \
+ third_party/boringssl/include/openssl/obj.h \
+ third_party/boringssl/include/openssl/bytestring.h \
+ third_party/boringssl/include/openssl/obj_mac.h \
+ third_party/boringssl/include/openssl/bn.h \
+ third_party/boringssl/include/openssl/buf.h \
+ third_party/boringssl/include/openssl/err.h \
+ third_party/boringssl/include/openssl/mem.h \
+ third_party/boringssl/include/openssl/rsa.h \
+ third_party/boringssl/include/openssl/asn1.h \
+ third_party/boringssl/include/openssl/bio.h \
+ third_party/boringssl/include/openssl/ex_data.h \
+ third_party/boringssl/include/openssl/stack.h \
+ third_party/boringssl/include/openssl/type_check.h \
+ third_party/boringssl/include/openssl/stack_macros.h \
+ third_party/boringssl/include/openssl/engine.h \
+ third_party/boringssl/crypto/evp/../rsa/internal.h \
+ third_party/boringssl/crypto/evp/internal.h

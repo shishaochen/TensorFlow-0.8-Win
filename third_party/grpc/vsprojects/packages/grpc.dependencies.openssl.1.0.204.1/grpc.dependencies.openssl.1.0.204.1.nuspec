@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>grpc.dependencies.openssl</id>
+    <version>1.0.204.1</version>
+    <title>gRPC Native Dependency: OpenSSL</title>
+    <authors>Mark J. Cox,  Ralf S. Engelschall,  Dr. Stephen Henson,  Ben Laurie,  Garrett Serack,  Tim Rogers</authors>
+    <owners>Mark J. Cox,  Ralf S. Engelschall,  Dr. Stephen Henson,  Ben Laurie,  Garrett Serack,  Tim Rogers</owners>
+    <licenseUrl>http://www.openssl.org/source/license.html</licenseUrl>
+    <projectUrl>http://github.com/grpc/grpc</projectUrl>
+    <iconUrl>http://openssl.com/images/openssl-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Native OpenSSL library.
+	OpenSSL homepage:  http://www.openssl.org</description>
+    <summary>An OpenSSL library</summary>
+    <releaseNotes>Release of OpenSSL 1.0.2d libraries.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>openssl native CoApp nativepackage</tags>
+    <dependencies>
+      <dependency id="grpc.dependencies.zlib" version="1.2.8.10" />
+      <dependency id="grpc.dependencies.openssl.redist" version="1.0.204.1" />
+    </dependencies>
+  </metadata>
+</package>

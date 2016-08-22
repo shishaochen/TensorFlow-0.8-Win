@@ -1,0 +1,15 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/asn1/bio_ndef.o: \
+ third_party/boringssl/crypto/asn1/bio_ndef.c \
+ third_party/boringssl/include/openssl/asn1.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/bio.h \
+ third_party/boringssl/include/openssl/err.h \
+ third_party/boringssl/include/openssl/ex_data.h \
+ third_party/boringssl/include/openssl/stack.h \
+ third_party/boringssl/include/openssl/type_check.h \
+ third_party/boringssl/include/openssl/stack_macros.h \
+ third_party/boringssl/include/openssl/thread.h \
+ third_party/boringssl/include/openssl/bn.h \
+ third_party/boringssl/include/openssl/asn1t.h \
+ third_party/boringssl/include/openssl/mem.h

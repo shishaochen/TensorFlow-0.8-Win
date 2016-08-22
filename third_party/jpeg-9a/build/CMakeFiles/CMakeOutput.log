@@ -1,0 +1,73 @@
+The system is: Windows - 10.0.10586 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.00.23918.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_24f94\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\amd64\nmake.exe" -f CMakeFiles\cmTC_24f94.dir\build.make /nologo -L                  CMakeFiles\cmTC_24f94.dir\build
+Building C object CMakeFiles/cmTC_24f94.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\cl.exe  @C:\Users\v-shaocs\AppData\Local\Temp\nm2275.tmp
+testCCompiler.c
+Linking C executable cmTC_24f94.exe
+	D:\Applications\CMake\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_24f94.dir --manifests  -- C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\link.exe /nologo @CMakeFiles\cmTC_24f94.dir\objects1.rsp @C:\Users\v-shaocs\AppData\Local\Temp\nm2341.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_6ea4a\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\amd64\nmake.exe" -f CMakeFiles\cmTC_6ea4a.dir\build.make /nologo -L                  CMakeFiles\cmTC_6ea4a.dir\build
+Building C object CMakeFiles/cmTC_6ea4a.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\cl.exe  @C:\Users\v-shaocs\AppData\Local\Temp\nm2757.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_6ea4a.exe
+	D:\Applications\CMake\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_6ea4a.dir --manifests  -- C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\link.exe /nologo @CMakeFiles\cmTC_6ea4a.dir\objects1.rsp @C:\Users\v-shaocs\AppData\Local\Temp\nm2814.tmp
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_b31a6\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\amd64\nmake.exe" -f CMakeFiles\cmTC_b31a6.dir\build.make /nologo -L                  CMakeFiles\cmTC_b31a6.dir\build
+Building C object CMakeFiles/cmTC_b31a6.dir/CheckIncludeFile.c.obj
+	C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\cl.exe  @C:\Users\v-shaocs\AppData\Local\Temp\nm2CA7.tmp
+CheckIncludeFile.c
+Linking C executable cmTC_b31a6.exe
+	D:\Applications\CMake\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b31a6.dir --manifests  -- C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\link.exe /nologo @CMakeFiles\cmTC_b31a6.dir\objects1.rsp @C:\Users\v-shaocs\AppData\Local\Temp\nm2D92.tmp
+
+
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_a38a6\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\amd64\nmake.exe" -f CMakeFiles\cmTC_a38a6.dir\build.make /nologo -L                  CMakeFiles\cmTC_a38a6.dir\build
+Building C object CMakeFiles/cmTC_a38a6.dir/CheckIncludeFile.c.obj
+	C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\cl.exe  @C:\Users\v-shaocs\AppData\Local\Temp\nm313A.tmp
+CheckIncludeFile.c
+Linking C executable cmTC_a38a6.exe
+	D:\Applications\CMake\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_a38a6.dir --manifests  -- C:\PROGRA~2\MICROS~3.0\VC\bin\amd64\link.exe /nologo @CMakeFiles\cmTC_a38a6.dir\objects1.rsp @C:\Users\v-shaocs\AppData\Local\Temp\nm3207.tmp
+
+

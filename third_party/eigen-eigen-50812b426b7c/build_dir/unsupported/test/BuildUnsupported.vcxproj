@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{03F8263E-DC18-3B4F-BE78-499EDA2F29CE}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>BuildUnsupported</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\Eigen;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\..\..\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\Eigen;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\..\..\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\Eigen;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\..\..\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\..\..\Eigen;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\..\..\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;D:\Applications\CMake\share\cmake-3.5\Modules\FindThreads.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckLibraryExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.c.in;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGoogleHash.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindAdolc.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMPFR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGMP.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindFFTW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPkgConfig.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindOpenGL.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindGLUT.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGLEW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindCUDA.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;D:\Applications\CMake\share\cmake-3.5\Modules\FindThreads.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckLibraryExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.c.in;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGoogleHash.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindAdolc.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMPFR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGMP.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindFFTW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPkgConfig.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindOpenGL.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindGLUT.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGLEW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindCUDA.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;D:\Applications\CMake\share\cmake-3.5\Modules\FindThreads.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckLibraryExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.c.in;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGoogleHash.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindAdolc.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMPFR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGMP.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindFFTW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPkgConfig.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindOpenGL.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindGLUT.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGLEW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindCUDA.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;D:\Applications\CMake\share\cmake-3.5\Modules\FindThreads.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckLibraryExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckIncludeFile.c.in;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGoogleHash.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindAdolc.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMPFR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGMP.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindFFTW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPkgConfig.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindOpenGL.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindGLUT.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindGLEW.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindCUDA.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/ZERO_CHECK.vcxproj">
+      <Project>1E70DAE0-84E9-3A5C-98D4-4778B6CD71D8</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/BVH_1.vcxproj">
+      <Project>98350ABA-A83F-3B45-B44D-7BC4747F7740</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/BVH_2.vcxproj">
+      <Project>93778364-2994-35D7-A092-40243A9390D3</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/BVH_3.vcxproj">
+      <Project>616BDA9C-CF81-388C-86F2-ADB87F59F562</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/FFT.vcxproj">
+      <Project>3EED99BA-11FC-33C2-88D7-3C6DFC136CE7</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/NonLinearOptimization.vcxproj">
+      <Project>35FCCBF6-C561-3963-97DE-0859CCC5B6CA</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/NumericalDiff.vcxproj">
+      <Project>214C22F8-B09D-3659-94D3-F27943BD716F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/alignedvector3.vcxproj">
+      <Project>8C81E47F-E150-3EEA-A92B-F5FC2E144B20</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/autodiff_1.vcxproj">
+      <Project>30EBD1B9-813B-3B5A-88D7-7F58E2BA8B44</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/autodiff_2.vcxproj">
+      <Project>A7818BA4-D8C9-3EDB-8A11-D9C2A6688FB3</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/autodiff_3.vcxproj">
+      <Project>C69B0EEA-1A03-38D3-AD82-42ABAEC0BEFF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/autodiff_4.vcxproj">
+      <Project>CFEDEB9D-307C-3F84-AC9B-4A28F5F7CB4D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/autodiff_scalar_1.vcxproj">
+      <Project>3F9731FF-5F14-3005-9586-96822E85A13A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/autodiff_scalar_2.vcxproj">
+      <Project>CCB78AB5-FE33-33A0-8CA8-D64CCFD7F3C2</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_float16.vcxproj">
+      <Project>DF9F7797-3BD4-3D2E-9B88-58F1AC4E0FA5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_assign.vcxproj">
+      <Project>1B16AE8C-6DE9-3706-BA55-60EC85B41305</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_casts.vcxproj">
+      <Project>F772A2EF-B763-3986-A472-9C5883C937E5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_comparisons.vcxproj">
+      <Project>E74F2206-3EF5-3C1A-9977-FE9C44BF1B83</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_const.vcxproj">
+      <Project>27288EE8-9BBC-31E0-97A0-E8A133B52369</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_dimension.vcxproj">
+      <Project>F160E67B-5510-3C7F-8C99-B47238C7096A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_empty.vcxproj">
+      <Project>984A0BBC-489C-3669-8D1B-21D7B11EE884</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_forced_eval.vcxproj">
+      <Project>4E79D526-5A5D-35AB-9E33-62A31F7B2A8F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_1.vcxproj">
+      <Project>31AE2CC1-8BE2-3ABC-B622-34E0973EAEF4</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_2.vcxproj">
+      <Project>8726BDF9-1CA7-39F7-B969-5622C74FE581</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_3.vcxproj">
+      <Project>8D17978D-A8BE-3BDE-82C6-984B64A4BE79</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_4.vcxproj">
+      <Project>07B4227F-D7D1-387B-BB45-D72C93AA10B8</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_5.vcxproj">
+      <Project>DBBB78A2-2F21-315A-AA00-3197373083ED</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_6.vcxproj">
+      <Project>EC894EDC-06D3-3912-87B0-B862E51C8141</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_intdiv_7.vcxproj">
+      <Project>A78A2513-B26D-3CBB-95E5-BB9035C68CA3</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_io.vcxproj">
+      <Project>2677E199-D32E-3CEC-B760-A233356CCE94</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_layout_swap.vcxproj">
+      <Project>24CAA590-3935-36B1-B089-2ED22A6D4DDE</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_map.vcxproj">
+      <Project>08D2A9C5-2DEF-3BD6-9048-67391DD9BE31</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_math.vcxproj">
+      <Project>85966528-AC8E-38C2-8E66-1BE34C22C0B9</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_roundings.vcxproj">
+      <Project>B36EE21E-1464-3CC0-9788-A2FE759BF09C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/cxx11_tensor_sugar.vcxproj">
+      <Project>3707BA14-1E9D-3FB5-B3E0-DA4EDA7ADD06</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/gmres_1.vcxproj">
+      <Project>BDA81DD1-8B41-3C8C-A1C3-2AE33B720955</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/gmres_2.vcxproj">
+      <Project>D84AF812-1355-3B39-8D3F-AED48D97D3F6</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/kronecker_product.vcxproj">
+      <Project>1C786F41-4424-378D-951C-F64B06318EAC</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/levenberg_marquardt.vcxproj">
+      <Project>B21BDF73-2075-35CF-84CF-C468A57ACF08</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_1.vcxproj">
+      <Project>B792D6A3-0C3F-3DEF-8D29-2E34F362A918</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_2.vcxproj">
+      <Project>DF2D5C6B-CC25-3EE2-B160-903DE1DD108A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_3.vcxproj">
+      <Project>C6998926-BC0A-356A-B388-2ED695989606</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_4.vcxproj">
+      <Project>8B3D2696-B9A8-3FA3-BD9D-327BE8690F7B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_5.vcxproj">
+      <Project>5E27A060-DA61-3BF1-928D-B722B03DC3EF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_6.vcxproj">
+      <Project>31F85E6C-2135-371F-A061-D75F28B8838E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_7.vcxproj">
+      <Project>490EBBCA-53C9-3F63-B572-8422BCCB927F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_8.vcxproj">
+      <Project>404C83D8-1898-3740-B471-539AAF63D989</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_exponential_9.vcxproj">
+      <Project>269DAF9C-2E41-36C4-A671-B22E49598083</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_1.vcxproj">
+      <Project>130C6C88-395B-331F-AD10-A85ED4C0D509</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_2.vcxproj">
+      <Project>7A6F8EDB-0870-3DBE-A71B-38C54F264496</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_3.vcxproj">
+      <Project>CFF93E77-BFB0-3AB0-A9A9-F52B72EC60B0</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_4.vcxproj">
+      <Project>73025EA0-BC9A-399E-8326-0AB1FD3CF4DC</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_5.vcxproj">
+      <Project>8D92EC9C-2FB2-369F-A875-7C7919D36F58</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_6.vcxproj">
+      <Project>2CE3BDE8-55E0-39F1-847F-309977825844</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_function_7.vcxproj">
+      <Project>B68CAF50-8947-3CA4-AC15-1FF24F2B44AB</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_1.vcxproj">
+      <Project>CE37EFF5-0B3B-3F02-91E3-976FA9B64F86</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_10.vcxproj">
+      <Project>594D4D5D-4A6D-3558-9C3E-120A8321E812</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_11.vcxproj">
+      <Project>50D4FE95-72C8-38D3-8E2E-7BEE79740DC1</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_12.vcxproj">
+      <Project>775BB125-407F-3448-BFA1-75657D60725D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_2.vcxproj">
+      <Project>24691A8B-8B47-310A-A29D-73D7F7743D08</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_3.vcxproj">
+      <Project>3F0B401A-135F-35FD-937B-AEAC757BE48C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_4.vcxproj">
+      <Project>A3AA3034-3481-360A-B1CA-076DB4673E66</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_5.vcxproj">
+      <Project>EA5677AA-C643-3915-99CF-DD5ED05076ED</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_6.vcxproj">
+      <Project>4890C357-BE66-32FA-806B-0049CCB8E04E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_7.vcxproj">
+      <Project>7F0807D0-5F84-3FC8-9AEB-B7ACFC715C6F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_8.vcxproj">
+      <Project>74860C43-4748-359F-B578-E9D416F884BA</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_power_9.vcxproj">
+      <Project>DAB162D4-503A-3061-8B78-3F31723577BC</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_square_root_1.vcxproj">
+      <Project>EE6CA867-8C4F-3E9D-8A57-26DB5AB4C8EA</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_square_root_2.vcxproj">
+      <Project>AEFDC08B-D8B4-3F10-829A-09A943A0B976</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_square_root_3.vcxproj">
+      <Project>27599A3C-A4B2-3263-B6D5-DCA63B2FDF9E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_square_root_4.vcxproj">
+      <Project>2582B049-FE22-3EAC-9E85-6E116D1D9343</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/matrix_square_root_5.vcxproj">
+      <Project>AB406805-26C3-362E-AD5C-9A46486E8601</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/minres_1.vcxproj">
+      <Project>4D1EB6DD-8BF0-3135-B167-887B3324D8D7</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/minres_2.vcxproj">
+      <Project>A05D68BD-E897-3C3C-9FFD-C4D6017310B8</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_1.vcxproj">
+      <Project>67644023-B96E-3613-9A65-17D5E3D37C48</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_10.vcxproj">
+      <Project>C8F605F7-B165-3A10-ADD8-37B33CADA739</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_11.vcxproj">
+      <Project>5BF3F1DD-6DE6-3960-9DD1-BF50BE29193A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_2.vcxproj">
+      <Project>1383640B-98E2-3D9D-B780-40349217455C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_3.vcxproj">
+      <Project>1707CDF3-88E3-3150-B4F9-4FD07F5D282C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_4.vcxproj">
+      <Project>DA1B0981-7047-3662-913A-734E73FC1A60</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_5.vcxproj">
+      <Project>29CFA84F-0735-356A-AB02-52B615D70E1E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_6.vcxproj">
+      <Project>95229C9B-E687-354C-81CF-7BB144DC0ABE</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_7.vcxproj">
+      <Project>11FA781D-E07E-330F-A7F9-6D4FDC77A85A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_8.vcxproj">
+      <Project>CEC06864-D761-38B0-BCF7-8B7282697531</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialsolver_9.vcxproj">
+      <Project>3AB935CC-8480-34C6-A913-6E3650075A6A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_2.vcxproj">
+      <Project>F321FBE4-8785-32DB-A609-19DB72F34B65</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_3.vcxproj">
+      <Project>6189EF7B-381E-3382-8B67-4B45381D69A4</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_4.vcxproj">
+      <Project>57E02A54-896B-3E82-817B-CBA834E05DF5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_5.vcxproj">
+      <Project>25077037-698A-3F1F-8A7C-AB56CB9BE090</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_6.vcxproj">
+      <Project>D7EF3548-65F5-39C8-B121-9AC360C5DD52</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_7.vcxproj">
+      <Project>02D360E8-1E23-3CD3-938D-D13C71199B25</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_8.vcxproj">
+      <Project>FD3BC690-A088-3A1B-A2B4-046A1F8DDC2A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/polynomialutils_9.vcxproj">
+      <Project>C4B514F7-CABB-3C71-857D-F3B84152B4A1</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/sparse_extra_1.vcxproj">
+      <Project>90E803F3-B66B-3A59-B40A-3155B798768F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/sparse_extra_2.vcxproj">
+      <Project>B5E47784-C302-331D-963A-27EA39C1C22E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/sparse_extra_3.vcxproj">
+      <Project>FB4F35D0-5BA5-3115-9539-53DAA010B489</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/test/splines.vcxproj">
+      <Project>7AC920F4-2D84-352C-8BA5-A1A4C4E23698</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

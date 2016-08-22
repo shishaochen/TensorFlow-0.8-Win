@@ -1,0 +1,12 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/iomgr/timer.o: \
+ src/core/lib/iomgr/timer.c src/core/lib/iomgr/timer.h \
+ include/grpc/support/port_platform.h \
+ include/grpc/impl/codegen/port_platform.h include/grpc/support/time.h \
+ include/grpc/impl/codegen/time.h src/core/lib/iomgr/exec_ctx.h \
+ src/core/lib/iomgr/closure.h src/core/lib/iomgr/iomgr.h \
+ include/grpc/support/log.h include/grpc/impl/codegen/log.h \
+ include/grpc/support/sync.h include/grpc/impl/codegen/sync.h \
+ include/grpc/impl/codegen/sync_generic.h include/grpc/impl/codegen/atm.h \
+ include/grpc/impl/codegen/atm_gcc_atomic.h \
+ include/grpc/impl/codegen/sync_posix.h include/grpc/support/useful.h \
+ src/core/lib/iomgr/time_averaged_stats.h src/core/lib/iomgr/timer_heap.h

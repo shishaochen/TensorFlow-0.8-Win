@@ -1,0 +1,16 @@
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/libprotobuf-lite.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/test_plugin.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/libprotobuf.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/protoc.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/install.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/libprotoc.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/gmock.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/gmock_main.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/tests.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/lite-test.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/lite-arena-test.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/check.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/edit_cache.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/rebuild_cache.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/list_install_components.dir
+E:/msvc/tensorflow0.8/google/protobuf/cmake/Release/CMakeFiles/install/local.dir

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{E286ABF9-2A9A-34D9-93B3-473FB99AB708}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>unsupported_examples</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\..\..\..\unsupported\test;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/doc/examples/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\unsupported\doc\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\unsupported\doc\examples\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/ZERO_CHECK.vcxproj">
+      <Project>1E70DAE0-84E9-3A5C-98D4-4778B6CD71D8</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_BVH_Example.vcxproj">
+      <Project>B512389C-1D01-3F60-966C-1A6E0ABFE597</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_FFT.vcxproj">
+      <Project>EC887E52-FE9E-35C5-A0D1-AA7DE754033A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixExponential.vcxproj">
+      <Project>2E2FBDEB-CC90-329C-BFA1-0D1BB319A712</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixFunction.vcxproj">
+      <Project>3D76839E-5036-37A3-8BA3-3B965029E269</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixLogarithm.vcxproj">
+      <Project>D9F61426-482E-304A-99BA-2B267369FD56</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixPower.vcxproj">
+      <Project>B11E5AED-E404-3C03-8359-598362E839C9</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixPower_optimal.vcxproj">
+      <Project>477460D7-4538-39F5-9BC5-30337DCE0CBD</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixSine.vcxproj">
+      <Project>6FE76600-6B2E-30F1-905C-AC312224AA2C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixSinh.vcxproj">
+      <Project>3426CE36-2D0C-33F6-B429-C26EED7C87A4</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_MatrixSquareRoot.vcxproj">
+      <Project>F23990E5-D72C-313A-A73F-FCAEF99EA4AF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_PolynomialSolver1.vcxproj">
+      <Project>D84E6607-48C7-323F-A3E6-C0071A958260</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/unsupported/doc/examples/example_PolynomialUtils1.vcxproj">
+      <Project>0AB958BF-0559-3313-A6E4-4DDEC7E86A7B</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

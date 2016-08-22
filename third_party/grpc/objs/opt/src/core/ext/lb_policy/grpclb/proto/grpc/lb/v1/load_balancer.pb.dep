@@ -1,0 +1,4 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/ext/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.o: \
+ src/core/ext/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.c \
+ src/core/ext/lb_policy/grpclb/proto/grpc/lb/v1/load_balancer.pb.h \
+ third_party/nanopb/pb.h

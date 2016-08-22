@@ -1,0 +1,464 @@
+The system is: Windows - 10.0.10586 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:14 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.74
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/3.5.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:15 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.70
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/3.5.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_6a78d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:16 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_6a78d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_6a78d.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_6a78d.dir\Debug\cmTC_6a78d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_6a78d.dir\Debug\cmTC_6a78d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6a78d.dir\Debug\\" /Fd"cmTC_6a78d.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6a78d.dir\Debug\\" /Fd"cmTC_6a78d.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_6a78d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_6a78d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_6a78d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_6a78d.dir\Debug\testCCompiler.obj
+  cmTC_6a78d.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_6a78d.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_6a78d.dir\Debug\cmTC_6a78d.tlog\unsuccessfulbuild".
+  Touching "cmTC_6a78d.dir\Debug\cmTC_6a78d.tlog\cmTC_6a78d.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_6a78d.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.01
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_30bfd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:17 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_30bfd.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_30bfd.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_30bfd.dir\Debug\cmTC_30bfd.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_30bfd.dir\Debug\cmTC_30bfd.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_30bfd.dir\Debug\\" /Fd"cmTC_30bfd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_30bfd.dir\Debug\\" /Fd"cmTC_30bfd.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_30bfd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_30bfd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_30bfd.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_30bfd.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_30bfd.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_30bfd.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_30bfd.dir\Debug\cmTC_30bfd.tlog\unsuccessfulbuild".
+  Touching "cmTC_30bfd.dir\Debug\cmTC_30bfd.tlog\cmTC_30bfd.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_30bfd.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.90
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_3f584.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:18 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_3f584.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_3f584.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_3f584.dir\Debug\cmTC_3f584.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_3f584.dir\Debug\cmTC_3f584.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_3f584.dir\Debug\\" /Fd"cmTC_3f584.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_3f584.dir\Debug\\" /Fd"cmTC_3f584.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_3f584.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_3f584.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_3f584.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_3f584.dir\Debug\testCXXCompiler.obj
+  cmTC_3f584.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_3f584.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_3f584.dir\Debug\cmTC_3f584.tlog\unsuccessfulbuild".
+  Touching "cmTC_3f584.dir\Debug\cmTC_3f584.tlog\cmTC_3f584.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_3f584.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.82
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_cfd45.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:19 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_cfd45.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cfd45.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cfd45.dir\Debug\cmTC_cfd45.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cfd45.dir\Debug\cmTC_cfd45.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_cfd45.dir\Debug\\" /Fd"cmTC_cfd45.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_cfd45.dir\Debug\\" /Fd"cmTC_cfd45.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_cfd45.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_cfd45.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_cfd45.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_cfd45.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_cfd45.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_cfd45.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_cfd45.dir\Debug\cmTC_cfd45.tlog\unsuccessfulbuild".
+  Touching "cmTC_cfd45.dir\Debug\cmTC_cfd45.tlog\cmTC_cfd45.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_cfd45.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.84
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_85cd9.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:21 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_85cd9.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_85cd9.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_85cd9.dir\Debug\cmTC_85cd9.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_85cd9.dir\Debug\cmTC_85cd9.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_85cd9.dir\Debug\\" /Fd"cmTC_85cd9.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_85cd9.dir\Debug\\" /Fd"cmTC_85cd9.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\feature_tests.cxx"
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_85cd9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_85cd9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_85cd9.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_85cd9.dir\Debug\feature_tests.obj
+  cmTC_85cd9.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_85cd9.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_85cd9.dir\Debug\cmTC_85cd9.tlog\unsuccessfulbuild".
+  Touching "cmTC_85cd9.dir\Debug\cmTC_85cd9.tlog\cmTC_85cd9.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_85cd9.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.76
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Performing C++ SOURCE FILE Test standard_math_library_linked_to_automatically succeeded with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e6abf.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:22 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_e6abf.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e6abf.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e6abf.dir\Debug\cmTC_e6abf.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e6abf.dir\Debug\cmTC_e6abf.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D standard_math_library_linked_to_automatically /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_e6abf.dir\Debug\\" /Fd"cmTC_e6abf.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\src.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D standard_math_library_linked_to_automatically /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_e6abf.dir\Debug\\" /Fd"cmTC_e6abf.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\src.cxx"
+  
+  src.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_e6abf.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_e6abf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_e6abf.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e6abf.dir\Debug\src.obj
+  cmTC_e6abf.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_e6abf.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_e6abf.dir\Debug\cmTC_e6abf.tlog\unsuccessfulbuild".
+  Touching "cmTC_e6abf.dir\Debug\cmTC_e6abf.tlog\cmTC_e6abf.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_e6abf.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.89
+
+Source file was:
+#include<cmath>
+int main() { std::sin(0.0); std::log(0.0f); }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_OPENMP succeeded with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_c1d90.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:23 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_c1d90.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c1d90.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c1d90.dir\Debug\cmTC_c1d90.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c1d90.dir\Debug\cmTC_c1d90.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W4 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORT_OPENMP /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"cmTC_c1d90.dir\Debug\\" /Fd"cmTC_c1d90.dir\Debug\vc120.pdb" /Gd /TP /wd4127 /wd4505 /wd4714 /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\src.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W4 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORT_OPENMP /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"cmTC_c1d90.dir\Debug\\" /Fd"cmTC_c1d90.dir\Debug\vc120.pdb" /Gd /TP /wd4127 /wd4505 /wd4714 /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\src.cxx"
+  
+  src.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_c1d90.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_c1d90.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_c1d90.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_c1d90.dir\Debug\src.obj
+  cmTC_c1d90.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_c1d90.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_c1d90.dir\Debug\cmTC_c1d90.tlog\unsuccessfulbuild".
+  Touching "cmTC_c1d90.dir\Debug\cmTC_c1d90.tlog\cmTC_c1d90.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_c1d90.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.93
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_FPFAST succeeded with the following output:
+Change Dir: D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_20b16.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2016 4:32:39 PM.
+Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_20b16.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_20b16.dir\Debug\".
+  Creating directory "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_20b16.dir\Debug\cmTC_20b16.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_20b16.dir\Debug\cmTC_20b16.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W4 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D COMPILER_SUPPORT_FPFAST /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:fast /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_20b16.dir\Debug\\" /Fd"cmTC_20b16.dir\Debug\vc120.pdb" /Gd /TP /wd4127 /wd4505 /wd4714 /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\src.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W4 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D COMPILER_SUPPORT_FPFAST /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:fast /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_20b16.dir\Debug\\" /Fd"cmTC_20b16.dir\Debug\vc120.pdb" /Gd /TP /wd4127 /wd4505 /wd4714 /analyze- /errorReport:queue "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\src.cxx"
+  
+  src.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_20b16.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_20b16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/CMakeFiles/CMakeTmp/Debug/cmTC_20b16.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_20b16.dir\Debug\src.obj
+  cmTC_20b16.vcxproj -> D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\Debug\cmTC_20b16.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_20b16.dir\Debug\cmTC_20b16.tlog\unsuccessfulbuild".
+  Touching "cmTC_20b16.dir\Debug\cmTC_20b16.tlog\cmTC_20b16.lastbuildstate".
+Done Building Project "D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\CMakeTmp\cmTC_20b16.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.82
+
+Source file was:
+int main() { return 0; }

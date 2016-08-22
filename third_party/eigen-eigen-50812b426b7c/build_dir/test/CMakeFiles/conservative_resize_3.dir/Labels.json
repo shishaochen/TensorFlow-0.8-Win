@@ -1,0 +1,19 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/conservative_resize.cpp"
+		},
+		
+		{
+			"file" : "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildOfficial" ],
+		"name" : "conservative_resize_3"
+	}
+}

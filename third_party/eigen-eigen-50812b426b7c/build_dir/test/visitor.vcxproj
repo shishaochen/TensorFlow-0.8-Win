@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{7EBB0666-510B-332F-8912-2AF3911CF9B3}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>visitor</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\language_support.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompilerId.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCompilerIdDetection.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CompilerId\VS-Intel.vfproj.in;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFindBinUtils.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranCompiler.cmake.in;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CMakeFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindLAPACK.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindBLAS.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindCholmod.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindUmfpack.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSuperLU.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindPastix.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindScotch.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMetis.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSPQR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindQt4.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckCXXSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\MacroAddFileDependencies.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakePushCheckState.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\language_support.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompilerId.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCompilerIdDetection.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CompilerId\VS-Intel.vfproj.in;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFindBinUtils.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranCompiler.cmake.in;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CMakeFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindLAPACK.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindBLAS.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindCholmod.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindUmfpack.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSuperLU.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindPastix.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindScotch.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMetis.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSPQR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindQt4.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckCXXSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\MacroAddFileDependencies.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakePushCheckState.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\language_support.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompilerId.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCompilerIdDetection.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CompilerId\VS-Intel.vfproj.in;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFindBinUtils.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranCompiler.cmake.in;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CMakeFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindLAPACK.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindBLAS.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindCholmod.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindUmfpack.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSuperLU.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindPastix.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindScotch.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMetis.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSPQR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindQt4.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckCXXSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\MacroAddFileDependencies.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakePushCheckState.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+D:\Applications\CMake\bin\cmake.exe -HD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c -BD:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir --check-stamp-file D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\language_support.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeDetermineCompilerId.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCompilerIdDetection.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CompilerId\VS-Intel.vfproj.in;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFindBinUtils.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranCompiler.cmake.in;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\CMakeFiles\3.5.1\CMakeFortranCompiler.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeFortranInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeLanguageInformation.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\Windows.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\Platform\WindowsPaths.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeCommonLanguageInclude.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindLAPACK.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindBLAS.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckFunctionExists.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindCholmod.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindUmfpack.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSuperLU.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindPastix.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindScotch.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindMetis.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\cmake\FindSPQR.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindQt4.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckCXXSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CheckSymbolExists.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\MacroAddFileDependencies.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageHandleStandardArgs.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\FindPackageMessage.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakeParseArguments.cmake;D:\Applications\CMake\share\cmake-3.5\Modules\CMakePushCheckState.cmake;D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\tensorflow0.8\third_party\eigen-eigen-50812b426b7c\build_dir\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/ZERO_CHECK.vcxproj">
+      <Project>1E70DAE0-84E9-3A5C-98D4-4778B6CD71D8</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_1.vcxproj">
+      <Project>8334A5F3-740E-3947-B846-59C32C092BC7</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_10.vcxproj">
+      <Project>9F0C12A5-DC6E-3DEE-8DE1-C42EC2A3039C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_2.vcxproj">
+      <Project>40F07A5E-30A2-3756-BEAA-83DA69070C78</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_3.vcxproj">
+      <Project>957C98B3-3E0B-3414-9D5B-19FDF7B629C2</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_4.vcxproj">
+      <Project>77A11736-2902-346B-86A5-799EF32A8A4C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_5.vcxproj">
+      <Project>DC533376-9B46-3F97-A432-E07F03D8D5EC</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_6.vcxproj">
+      <Project>81F95BBD-43CE-33A1-9DC0-0F9E05C8DA87</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_7.vcxproj">
+      <Project>CD07B8C9-62BA-32BA-A5C4-A2D38A9B1563</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_8.vcxproj">
+      <Project>B54301A8-0E0D-35D0-B343-7AD28E36A580</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/build_dir/test/visitor_9.vcxproj">
+      <Project>6C3DD6CE-2BE1-33FA-BF22-5690E3E0DE03</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,7 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/sha/sha256.o: \
+ third_party/boringssl/crypto/sha/sha256.c \
+ third_party/boringssl/include/openssl/sha.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/mem.h \
+ third_party/boringssl/crypto/sha/../digest/md32_common.h

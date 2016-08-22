@@ -1,0 +1,13 @@
+﻿Build started 5/19/2016 3:05:27 PM.
+     1>Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\grpc_fetch_oauth2\grpc_fetch_oauth2.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\tensorflow0.8\third_party\grpc\vsprojects\\.. /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\protobuf\src /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.zlib.1.2.8.10\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.openssl.1.0.204.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gflags.2.1.2.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gtest.1.7.0.1\build\native\include /Zi /nologo /W3 /WX /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _LIB /D _WIN32_WINNT=0x600 /D _SCL_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_fetch_oauth2\\" /Fd"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_fetch_oauth2\vc120.pdb" /Gd /TC /errorReport:prompt D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\security\fetch_oauth2.c
+         fetch_oauth2.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_fetch_oauth2.lib" /NOLOGO /MACHINE:X64 /LTCG D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_fetch_oauth2\fetch_oauth2.obj
+         grpc_fetch_oauth2.vcxproj -> D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_fetch_oauth2.lib
+     1>Done Building Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\grpc_fetch_oauth2\grpc_fetch_oauth2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53

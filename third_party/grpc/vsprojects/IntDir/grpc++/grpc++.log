@@ -1,0 +1,8 @@
+﻿  channel.cc
+  completion_queue.cc
+  async_generic_service.cc
+  server.cc
+  server_builder.cc
+  server_context.cc
+  Generating Code...
+  grpc++.vcxproj -> E:\msvc\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc++.lib

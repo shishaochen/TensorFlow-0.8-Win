@@ -1,0 +1,19 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/cipher/e_tls.o: \
+ third_party/boringssl/crypto/cipher/e_tls.c \
+ third_party/boringssl/include/openssl/aead.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/cipher.h \
+ third_party/boringssl/include/openssl/err.h \
+ third_party/boringssl/include/openssl/hmac.h \
+ third_party/boringssl/include/openssl/digest.h \
+ third_party/boringssl/include/openssl/md5.h \
+ third_party/boringssl/include/openssl/mem.h \
+ third_party/boringssl/include/openssl/sha.h \
+ third_party/boringssl/include/openssl/type_check.h \
+ third_party/boringssl/include/../crypto/internal.h \
+ third_party/boringssl/include/openssl/ex_data.h \
+ third_party/boringssl/include/openssl/stack.h \
+ third_party/boringssl/include/openssl/stack_macros.h \
+ third_party/boringssl/include/openssl/thread.h \
+ third_party/boringssl/crypto/cipher/internal.h

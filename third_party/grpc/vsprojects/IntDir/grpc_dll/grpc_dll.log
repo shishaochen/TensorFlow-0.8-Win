@@ -1,0 +1,15 @@
+﻿Build started 5/19/2016 3:05:24 PM.
+     1>Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\grpc_dll\grpc_dll.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\tensorflow0.8\third_party\grpc\vsprojects\\.. /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\protobuf\src /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.zlib.1.2.8.10\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.openssl.1.0.204.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gflags.2.1.2.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gtest.1.7.0.1\build\native\include /Zi /nologo /W3 /WX /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _LIB /D _WIN32_WINNT=0x600 /D _SCL_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_dll\\" /Fd"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_dll\vc120.pdb" /Gd /TC /errorReport:prompt D:\tensorflow0.8\third_party\grpc\vsprojects\\..\vsprojects\dummy.c
+         dummy.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_dll.dll" /NOLOGO /LIBPATH:D:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.zlib.1.2.8.10\build\native\lib\v120\x64\Release\static\cdecl /LIBPATH:D:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.openssl.1.0.204.1\build\native\lib\v120\x64\Release\static zlib.lib ws2_32.lib ssleay32.lib libeay32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"D:\tensorflow0.8\third_party\grpc\vsprojects\\..\grpc.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_dll.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_dll.lib" /MACHINE:X64 /ignore:4217 /DLL D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_dll\dummy.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\gpr.lib
+         D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc.lib
+     1>LINK : fatal error LNK1181: cannot open input file 'D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\gpr.lib'
+     1>Done Building Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\grpc_dll\grpc_dll.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.51

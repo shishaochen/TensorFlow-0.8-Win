@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (gtest.vcxproj, gtest_main.vcxproj, gtest_unittest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gtest_prod_test.cc
+  production.cc
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (gtest.vcxproj, gtest_prod_test.vcxproj, gtest_unittest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (gtest_main.vcxproj, gtest_prod_test.vcxproj, gtest_unittest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+LINK : warning LNK4044: unrecognized option '/FS'; ignored
+  gtest_prod_test.vcxproj -> E:\msvc\tensorflow0.8\gmock\gtest\msvc\x64\Release\gtest_prod_test.exe

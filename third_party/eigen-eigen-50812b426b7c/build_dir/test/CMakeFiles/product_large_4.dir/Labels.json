@@ -1,0 +1,19 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/product_large.cpp"
+		},
+		
+		{
+			"file" : "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/test/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildOfficial" ],
+		"name" : "product_large_4"
+	}
+}

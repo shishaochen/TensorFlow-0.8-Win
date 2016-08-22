@@ -1,0 +1,4 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/support/thd.o: \
+ src/core/lib/support/thd.c include/grpc/support/thd.h \
+ include/grpc/support/port_platform.h \
+ include/grpc/impl/codegen/port_platform.h

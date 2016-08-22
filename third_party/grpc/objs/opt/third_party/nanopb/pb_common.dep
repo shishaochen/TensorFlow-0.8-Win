@@ -1,0 +1,3 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/nanopb/pb_common.o: \
+ third_party/nanopb/pb_common.c third_party/nanopb/pb_common.h \
+ third_party/nanopb/pb.h

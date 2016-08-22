@@ -1,0 +1,5 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/ext/transport/chttp2/transport/varint.o: \
+ src/core/ext/transport/chttp2/transport/varint.c \
+ src/core/ext/transport/chttp2/transport/varint.h \
+ include/grpc/support/port_platform.h \
+ include/grpc/impl/codegen/port_platform.h

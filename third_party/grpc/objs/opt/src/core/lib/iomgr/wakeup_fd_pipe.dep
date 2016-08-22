@@ -1,0 +1,5 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/iomgr/wakeup_fd_pipe.o: \
+ src/core/lib/iomgr/wakeup_fd_pipe.c include/grpc/support/port_platform.h \
+ include/grpc/impl/codegen/port_platform.h \
+ src/core/lib/iomgr/wakeup_fd_posix.h include/grpc/support/log.h \
+ include/grpc/impl/codegen/log.h src/core/lib/iomgr/socket_utils_posix.h

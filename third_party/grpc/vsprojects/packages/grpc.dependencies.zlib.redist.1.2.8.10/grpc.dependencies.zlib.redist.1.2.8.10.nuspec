@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>grpc.dependencies.zlib.redist</id>
+    <version>1.2.8.10</version>
+    <title>gRPC Native Dependency: ZLib compression library Redist</title>
+    <authors>Jean-loup Gailly,  Mark Adler,  Garrett Serack,  Tim Rogers</authors>
+    <owners>Jean-loup Gailly,  Mark Adler,  Garrett Serack,  Tim Rogers</owners>
+    <licenseUrl>http://zlib.net/zlib-license.html</licenseUrl>
+    <projectUrl>http://github.com/grpc/grpc</projectUrl>
+    <iconUrl>http://zlib.net/images/zlib3d-b1.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Redistributable components for package 'grpc.dependencies.zlib'. This package should only be installed as a dependency. 
+(This is not the package you are looking for).</description>
+    <summary>Redistributable components for for package 'grpc.dependencies.zlib'</summary>
+    <releaseNotes>Release of zlib 1.2.8 libraries.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>zlib native CoApp nativepackage</tags>
+  </metadata>
+</package>

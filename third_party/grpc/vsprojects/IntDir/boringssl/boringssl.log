@@ -1,0 +1,1220 @@
+﻿  err_data.c
+  aes.c
+  mode_wrappers.c
+  a_bitstr.c
+  a_bool.c
+  a_bytes.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_bytes.c(275): warning C4244: 'function': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_bytes.c(287): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+  a_d2i_fp.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_d2i_fp.c(170): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_d2i_fp.c(188): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_d2i_fp.c(198): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_d2i_fp.c(231): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_d2i_fp.c(262): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  a_dup.c
+  a_enum.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_enum.c(164): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_gentm.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_gentm.c(193): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_gentm.c(251): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_i2d_fp.c
+  a_int.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_int.c(438): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_mbstr.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_mbstr.c(105): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_object.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_object.c(99): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_octet.c
+  a_print.c
+  a_strnid.c
+  a_time.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_time.c(172): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_type.c
+  a_utctm.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_utctm.c(200): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\a_utctm.c(262): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  a_utf8.c
+  asn1_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\asn1_lib.c(361): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\asn1_lib.c(367): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\asn1_lib.c(407): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  asn1_par.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\asn1_par.c(152): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\asn1_par.c(183): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\asn1_par.c(195): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+  asn_pack.c
+  bio_asn1.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\bio_asn1.c(337): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  bio_ndef.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\bio_ndef.c(178): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\bio_ndef.c(248): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  f_enum.c
+  f_int.c
+  f_string.c
+  t_bitst.c
+  t_pkey.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\t_pkey.c(90): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  tasn_dec.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(378): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(425): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(456): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(491): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(562): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(656): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(666): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(785): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(787): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(813): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(1023): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(1096): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(1110): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(1168): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\asn1\tasn_dec.c(1206): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  tasn_enc.c
+  tasn_fre.c
+  tasn_new.c
+  tasn_prn.c
+  tasn_typ.c
+  tasn_utl.c
+  x_bignum.c
+  x_long.c
+  Compiling...
+  base64.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\base64\base64.c(134): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\base64\base64.c(142): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\base64\base64.c(150): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\base64\base64.c(161): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\base64\base64.c(169): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\base64\base64.c(459): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  bio.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio.c(205): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio.c(458): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio.c(503): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio.c(532): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio.c(562): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio.c(601): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  bio_mem.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio_mem.c(142): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio_mem.c(175): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio_mem.c(190): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\bio_mem.c(199): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  buffer.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\buffer.c(479): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  connect.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\connect.c(509): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  fd.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(146): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(457): note: see declaration of 'close'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(156): error C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(521): note: see declaration of 'read'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(168): error C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(556): note: see declaration of 'write'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(189): error C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(501): note: see declaration of 'lseek'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(196): error C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(501): note: see declaration of 'lseek'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(238): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\fd.c(255): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  file.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\file.c(207): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\file.c(306): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\file.c(313): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  hexdump.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\hexdump.c(103): warning C4267: 'function': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\hexdump.c(104): warning C4267: 'function': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\hexdump.c(105): warning C4267: 'function': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\hexdump.c(106): warning C4267: 'function': conversion from 'size_t' to 'uint8_t', possible loss of data
+  pair.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\pair.c(488): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\pair.c(564): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\pair.c(660): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\pair.c(736): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  printf.c
+  socket.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\socket.c(138): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  socket_helper.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\socket_helper.c(67): warning C4267: '=': conversion from 'size_t' to 'socklen_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bio\socket_helper.c(69): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  add.c
+  x86_64-gcc.c
+  bn.c
+  bn_asn1.c
+  cmp.c
+  convert.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bn\convert.c(552): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bn\convert.c(553): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bn\convert.c(554): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bn\convert.c(555): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  ctx.c
+  div.c
+  Compiling...
+  exponentiation.c
+  gcd.c
+  generic.c
+  kronecker.c
+  montgomery.c
+  mul.c
+  prime.c
+  random.c
+  rsaz_exp.c
+  shift.c
+  sqrt.c
+  buf.c
+  asn1_compat.c
+  ber.c
+  cbb.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bytestring\cbb.c(232): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bytestring\cbb.c(246): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bytestring\cbb.c(251): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\bytestring\cbb.c(294): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  cbs.c
+  chacha_generic.c
+  chacha_vec.c
+  aead.c
+  cipher.c
+  Compiling...
+  derive_key.c
+  e_aes.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(416): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(427): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(438): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(449): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(459): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(709): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(1088): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(1263): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(1324): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(1418): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_aes.c(1562): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  e_chacha20poly1305.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_chacha20poly1305.c(59): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_chacha20poly1305.c(76): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  e_des.c
+  e_null.c
+  e_rc2.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_rc2.c(216): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  e_rc4.c
+  e_ssl3.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_ssl3.c(281): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_ssl3.c(283): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  e_tls.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_tls.c(271): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_tls.c(281): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_tls.c(286): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\e_tls.c(316): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  tls_cbc.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\tls_cbc.c(386): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cipher\tls_cbc.c(405): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cmac.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cmac\cmac.c(182): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cmac\cmac.c(210): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  conf.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\conf\conf.c(205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\conf\conf.c(325): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\conf\conf.c(541): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\conf\conf.c(543): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\conf\conf.c(768): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+  cpu-arm.c
+  cpu-intel.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\cpu-intel.c(138): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  crypto.c
+  curve25519.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(92): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(93): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(94): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(95): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(96): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(97): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(98): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(99): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(100): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(101): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(493): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(494): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(495): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(496): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(497): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(498): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(499): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(500): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(501): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(502): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(634): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(635): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(636): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(637): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(638): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(639): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(640): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(641): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(642): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(643): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(902): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(903): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(904): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(905): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(906): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(907): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(908): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(909): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(910): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(911): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4079): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4080): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4081): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4082): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4083): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4084): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4085): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4086): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4087): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4088): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4089): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4090): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4091): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4092): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4093): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4094): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4095): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4096): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4097): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4098): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4100): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4101): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4102): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4103): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4104): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4105): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4106): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4107): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4108): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4109): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4568): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4569): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4570): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4571): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4572): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4573): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4574): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4575): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4576): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4577): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4578): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4579): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4580): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4581): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4582): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4583): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4584): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4585): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4586): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4587): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4589): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4590): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4591): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4592): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4593): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4594): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4595): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4596): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4597): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4598): warning C4244: '=': conversion from 'int64_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4768): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4769): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4770): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4771): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4772): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4773): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4774): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4775): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4776): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\curve25519\curve25519.c(4777): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+  x25519-x86_64.c
+  des.c
+  check.c
+  dh.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\dh\dh.c(365): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  dh_asn1.c
+  params.c
+  digest.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\digest\digest.c(235): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\digest\digest.c(239): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  digests.c
+  directory_posix.c
+  directory_win.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\directory_win.c(81): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\directory_win.c(82): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\directory_win.c(116): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  dsa.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\dsa\dsa.c(151): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\dsa\dsa.c(737): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\dsa\dsa.c(787): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  dsa_asn1.c
+  ec.c
+  ec_asn1.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ec\ec_asn1.c(494): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ec\ec_asn1.c(518): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ec_key.c
+  ec_montgomery.c
+  oct.c
+  p224-64.c
+  p256-64.c
+  p256-x86_64.c
+  simple.c
+  util-64.c
+  wnaf.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ec\wnaf.c(189): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ec\wnaf.c(301): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ec\wnaf.c(375): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ecdh.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ecdh\ecdh.c(145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  ecdsa.c
+  ecdsa_asn1.c
+  engine.c
+  err.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\err\err.c(560): warning C4244: 'initializing': conversion from 'uintptr_t' to 'const unsigned long', possible loss of data
+  algorithm.c
+  digestsign.c
+  evp.c
+  evp_asn1.c
+  evp_ctx.c
+  p_dsa_asn1.c
+  p_ec.c
+  p_ec_asn1.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_ec_asn1.c(202): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  p_rsa.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa.c(196): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa.c(352): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa.c(353): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa.c(393): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa.c(394): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  p_rsa_asn1.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa_asn1.c(562): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\p_rsa_asn1.c(564): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  pbkdf.c
+  sign.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\evp\sign.c(100): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ex_data.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(162): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(181): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(251): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(253): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(256): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(282): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\ex_data.c(283): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  hkdf.c
+  hmac.c
+  lhash.c
+  Compiling...
+  md4.c
+  md5.c
+  mem.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\mem.c(150): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  cbc.c
+  cfb.c
+  ctr.c
+  gcm.c
+  ofb.c
+  obj.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\obj\obj.c(221): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\obj\obj.c(433): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\obj\obj.c(509): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\obj\obj.c(530): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  obj_xref.c
+  pem_all.c
+  pem_info.c
+  pem_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(109): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(545): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(552): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(648): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(742): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(801): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(790): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(791): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pem\pem_lib.c(814): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  pem_oth.c
+  pem_pk8.c
+  pem_pkey.c
+  pem_x509.c
+  pem_xaux.c
+  p5_pbe.c
+  p5_pbev2.c
+  Compiling...
+  p8_pkey.c
+  pkcs8.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(121): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(126): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(128): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(330): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(433): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(469): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(528): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(567): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(569): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(1004): warning C4244: 'function': conversion from 'uint64_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\pkcs8\pkcs8.c(1092): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  poly1305.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\poly1305\poly1305.c(229): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\poly1305\poly1305.c(255): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\poly1305\poly1305.c(322): warning C4244: 'function': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\poly1305\poly1305.c(324): warning C4244: 'function': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\poly1305\poly1305.c(326): warning C4244: 'function': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\poly1305\poly1305.c(328): warning C4244: 'function': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  poly1305_arm.c
+  poly1305_vec.c
+  rand.c
+  urandom.c
+  windows.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rand\windows.c(45): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+  rc4.c
+  refcount_c11.c
+  refcount_lock.c
+  blinding.c
+  padding.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(289): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(338): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(411): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(517): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(544): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(551): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(620): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(645): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\padding.c(677): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  rsa.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(210): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(234): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(258): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(283): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(288): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(291): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(411): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(463): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa.c(484): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  rsa_asn1.c
+  rsa_impl.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa_impl.c(128): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa_impl.c(132): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa_impl.c(136): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa_impl.c(317): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\rsa\rsa_impl.c(320): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  sha1.c
+  sha256.c
+  sha512.c
+  stack.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\stack\stack.c(346): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  thread.c
+  thread_none.c
+  thread_pthread.c
+  thread_win.c
+  time_support.c
+  a_digest.c
+  a_sign.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\a_sign.c(117): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\a_sign.c(134): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  a_strex.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\a_strex.c(354): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\a_strex.c(535): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  a_verify.c
+  asn1_gen.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\asn1_gen.c(202): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\asn1_gen.c(299): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\asn1_gen.c(300): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\asn1_gen.c(408): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\asn1_gen.c(614): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  by_dir.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(95): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(96): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(104): error C2065: 'get_cert_by_subject': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(97): error C2099: initializer is not a constant
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(256): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\by_dir.c(257): error C2059: syntax error: ')'
+  by_file.c
+  i2d_pr.c
+  pkcs7.c
+  t_crl.c
+  t_req.c
+  t_x509.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\t_x509.c(485): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  t_x509a.c
+  x509.c
+  x509_att.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_att.c(67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_att.c(92): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_att.c(338): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  x509_cmp.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_cmp.c(446): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  x509_d2.c
+  x509_def.c
+  x509_ext.c
+  x509_lu.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(129): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(130): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(139): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(140): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(293): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(294): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(424): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(470): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(476): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(485): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(531): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(607): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(607): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(611): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(611): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(612): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(612): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(612): warning C4024: 'X509_STORE_get_by_subject': different types for formal and actual parameter 3
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(635): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(635): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(635): warning C4024: 'X509_OBJECT_idx_by_subject': different types for formal and actual parameter 3
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(644): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(644): warning C4047: 'function': 'const X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(644): warning C4024: 'X509_NAME_cmp': different types for formal and actual parameter 1
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_lu.c(692): error C2059: syntax error: 'constant'
+  x509_obj.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_obj.c(107): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  x509_r2x.c
+  x509_req.c
+  x509_set.c
+  x509_trs.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_trs.c(139): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_trs.c(164): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  x509_txt.c
+  x509_v3.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_v3.c(69): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_v3.c(94): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_v3.c(114): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_v3.c(159): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  x509_vfy.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(233): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(299): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(402): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(694): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(705): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(788): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(827): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1185): error C2065: 'cnm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1185): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1204): error C2065: 'cnm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1204): warning C4047: 'function': 'const X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1204): warning C4024: 'X509_NAME_cmp': different types for formal and actual parameter 2
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1224): error C2065: 'cnm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1224): warning C4047: 'function': 'const X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1224): warning C4024: 'X509_NAME_cmp': different types for formal and actual parameter 2
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1302): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1302): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1321): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1321): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1328): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1328): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1332): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1337): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1337): warning C4047: 'function': 'const X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1337): warning C4024: 'X509_NAME_cmp': different types for formal and actual parameter 1
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1361): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1361): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1369): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1369): warning C4047: 'function': 'const X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1369): warning C4024: 'X509_NAME_cmp': different types for formal and actual parameter 2
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1420): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1420): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1430): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1430): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1430): warning C4024: 'function through pointer': different types for formal and actual parameter 2
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1462): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vfy.c(1694): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  x509_vpm.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509_vpm.c(598): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  x509cset.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(75): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509cset.c(126): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  x509name.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509name.c(98): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509name.c(124): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509name.c(153): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509name.c(232): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509name.c(268): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509name.c(361): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  x509rset.c
+  x509spki.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509spki.c(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x509spki.c(103): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+  x509type.c
+  x_algor.c
+  Compiling...
+  x_all.c
+  x_attrib.c
+  x_crl.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2143: syntax error: missing ';' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(84): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(86): error C2059: syntax error: '}'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(100): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(102): error C2079: 'int_crl_meth' uses undefined struct 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(105): error C2065: 'def_crl_lookup': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(107): error C2078: too many initializers
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(102): error C2078: too many initializers
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(109): warning C4133: 'initializing': incompatible types - from 'int *' to 'const X509_CRL_METHOD *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(139): error C2146: syntax error: missing ')' before identifier '_it'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(139): error C2101: '&' on constant
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(139): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(140): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(141): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(142): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(144): error C2059: syntax error: '}'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(144): warning C4034: sizeof returns 0
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(295): error C2037: left of 'crl_init' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(296): error C2037: left of 'crl_init' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(302): error C2037: left of 'crl_free' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(303): error C2037: left of 'crl_free' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(392): error C2037: left of 'crl_verify' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(393): error C2037: left of 'crl_verify' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(393): warning C4033: 'X509_CRL_verify' must return a value
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(400): error C2037: left of 'crl_lookup' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(401): error C2037: left of 'crl_lookup' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(401): warning C4033: 'X509_CRL_get0_by_serial' must return a value
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(407): error C2037: left of 'crl_lookup' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(408): error C2037: left of 'crl_lookup' specifies undefined struct/union 'x509_crl_method_st'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(410): warning C4033: 'X509_CRL_get0_by_cert' must return a value
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(420): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(421): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(451): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(494): warning C4133: '=': incompatible types - from 'int *' to 'const X509_CRL_METHOD *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2143: syntax error: missing ')' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2143: syntax error: missing '{' before 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(504): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_crl.c(522): error C2037: left of 'flags' specifies undefined struct/union 'x509_crl_method_st'
+  x_exten.c
+  x_info.c
+  x_name.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_name.c(236): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_name.c(270): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_name.c(494): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  x_pkey.c
+  x_pubkey.c
+  x_req.c
+  x_sig.c
+  x_spki.c
+  x_val.c
+  x_x509.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(76): error C2146: syntax error: missing ')' before identifier '_it'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(76): error C2101: '&' on constant
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(76): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(77): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(78): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(79): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(80): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(81): error C2059: syntax error: ','
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(83): error C2059: syntax error: '}'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(83): warning C4034: sizeof returns 0
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509\x_x509.c(192): warning C4244: '-=': conversion from '__int64' to 'long', possible loss of data
+  x_x509a.c
+  pcy_cache.c
+  pcy_data.c
+  pcy_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\pcy_lib.c(115): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  pcy_map.c
+  pcy_node.c
+  pcy_tree.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\pcy_tree.c(159): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\pcy_tree.c(496): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\pcy_tree.c(510): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  v3_akey.c
+  v3_akeya.c
+  v3_alt.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_alt.c(506): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_alt.c(577): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  v3_bcons.c
+  v3_bitst.c
+  v3_conf.c
+  v3_cpols.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_cpols.c(247): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_cpols.c(320): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_cpols.c(335): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  v3_crld.c
+  v3_enum.c
+  v3_extku.c
+  v3_genn.c
+  v3_ia5.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_ia5.c(111): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  v3_info.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_info.c(132): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_info.c(178): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  v3_int.c
+  v3_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_lib.c(255): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  v3_ncons.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_ncons.c(459): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_ncons.c(461): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  v3_pci.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_pci.c(186): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  v3_pcia.c
+  v3_pcons.c
+  v3_pku.c
+  Compiling...
+  v3_pmaps.c
+  v3_prn.c
+  v3_purp.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(175): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(212): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(376): error C2065: 'iname': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(376): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(391): error C2065: 'iname': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(391): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(395): error C2065: 'iname': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(396): error C2065: 'iname': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(396): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(398): error C2065: 'iname': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(398): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(398): warning C4024: 'DIST_POINT_set_dpname': different types for formal and actual parameter 2
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(860): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(860): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(866): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(866): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(870): error C2065: 'nm': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(870): warning C4047: 'function': 'const X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_purp.c(870): warning C4024: 'X509_NAME_cmp': different types for formal and actual parameter 1
+  v3_skey.c
+  v3_sxnet.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_sxnet.c(197): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_sxnet.c(218): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  v3_utl.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_utl.c(478): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\crypto\x509v3\v3_utl.c(503): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  custom_extensions.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\custom_extensions.c(40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  d1_both.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_both.c(377): warning C4267: 'function': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_both.c(385): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_both.c(391): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_both.c(392): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_both.c(436): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_both.c(562): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  d1_clnt.c
+  d1_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\d1_lib.c(303): warning C4244: '=': conversion from '__time64_t' to 'long', possible loss of data
+  d1_meth.c
+  d1_pkt.c
+  d1_srtp.c
+  d1_srvr.c
+  dtls_record.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\dtls_record.c(297): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  pqueue.c
+  s3_both.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_both.c(543): warning C4244: 'initializing': conversion from 'time_t' to 'const uint32_t', possible loss of data
+  s3_clnt.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(722): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(824): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1299): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1299): error C2143: syntax error: missing '{' before '*'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1299): error C2059: syntax error: '<parameter-list>'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1306): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1306): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1339): error C2065: 'ca_dn_cmp': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1339): error C2059: syntax error: '<cv-qualifer>'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1387): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1387): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1388): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1388): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1406): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1406): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1413): error C2143: syntax error: missing '{' before '->'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1413): error C2059: syntax error: '->'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2143: syntax error: missing ')' before '?'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2143: syntax error: missing '{' before '?'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1414): error C2059: syntax error: '?'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1415): error C2143: syntax error: missing '{' before '->'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1415): error C2059: syntax error: '->'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1416): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1420): error C2143: syntax error: missing '{' before ':'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1420): error C2059: syntax error: ':'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1422): error C2059: syntax error: 'return'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1423): error C2059: syntax error: '}'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1749): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1853): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(1980): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_clnt.c(2055): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+  s3_enc.c
+  s3_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_lib.c(222): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_lib.c(516): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  s3_meth.c
+  s3_pkt.c
+  s3_srvr.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(750): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1149): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1172): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1361): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1370): warning C4267: 'function': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1386): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1386): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1403): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1418): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1418): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1419): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1419): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1419): warning C4024: 'i2d_X509_NAME': different types for formal and actual parameter 1
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1426): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1426): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(1426): warning C4024: 'i2d_X509_NAME': different types for formal and actual parameter 1
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(2033): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(2082): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\s3_srvr.c(2099): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  ssl_aead_ctx.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_aead_ctx.c(79): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_aead_ctx.c(88): warning C4267: '-=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  ssl_asn1.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_asn1.c(401): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_asn1.c(529): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_asn1.c(554): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_asn1.c(556): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_asn1.c(558): warning C4244: 'function': conversion from 'time_t' to 'long', possible loss of data
+  ssl_buffer.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_buffer.c(55): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_buffer.c(264): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+  ssl_cert.c
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(100): warning C4005: 'AF_IPX': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(452): note: see previous definition of 'AF_IPX'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(137): warning C4005: 'AF_MAX': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(471): note: see previous definition of 'AF_MAX'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(177): warning C4005: 'SO_DONTLINGER': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(394): note: see previous definition of 'SO_DONTLINGER'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(221): error C2011: 'sockaddr': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(477): note: see declaration of 'sockaddr'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(421): error C2059: syntax error: 'constant'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(556): warning C4005: 'IN_CLASSA': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(279): note: see previous definition of 'IN_CLASSA'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(562): warning C4005: 'IN_CLASSB': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(285): note: see previous definition of 'IN_CLASSB'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(568): warning C4005: 'IN_CLASSC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(291): note: see previous definition of 'IN_CLASSC'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(579): warning C4005: 'INADDR_ANY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(296): note: see previous definition of 'INADDR_ANY'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(581): warning C4005: 'INADDR_BROADCAST': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(298): note: see previous definition of 'INADDR_BROADCAST'
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ws2def.h(615): error C2011: 'sockaddr_in': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(304): note: see declaration of 'sockaddr_in'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(136): error C2011: 'fd_set': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(60): note: see declaration of 'fd_set'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(156): warning C4005: 'FD_CLR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(89): note: see previous definition of 'FD_CLR'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(171): warning C4005: 'FD_SET': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(94): note: see previous definition of 'FD_SET'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(180): error C2011: 'timeval': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(103): note: see declaration of 'timeval'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(236): error C2011: 'hostent': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(159): note: see declaration of 'hostent'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(249): error C2011: 'netent': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(172): note: see declaration of 'netent'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(256): error C2011: 'servent': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(179): note: see declaration of 'servent'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(268): error C2011: 'protoent': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(191): note: see declaration of 'protoent'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(364): error C2011: 'WSAData': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(314): note: see declaration of 'WSAData'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(462): error C2011: 'sockproto': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(486): note: see declaration of 'sockproto'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(504): error C2011: 'linger': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(523): note: see declaration of 'linger'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(517): warning C4005: 'SOMAXCONN': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(536): note: see previous definition of 'SOMAXCONN'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(551): warning C4005: 'FD_READ': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(554): note: see previous definition of 'FD_READ'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(554): warning C4005: 'FD_WRITE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(555): note: see previous definition of 'FD_WRITE'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(557): warning C4005: 'FD_OOB': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(556): note: see previous definition of 'FD_OOB'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(560): warning C4005: 'FD_ACCEPT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(557): note: see previous definition of 'FD_ACCEPT'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(563): warning C4005: 'FD_CONNECT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(558): note: see previous definition of 'FD_CONNECT'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(566): warning C4005: 'FD_CLOSE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(559): note: see previous definition of 'FD_CLOSE'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1650): error C2375: 'accept': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(734): note: see declaration of 'accept'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1672): error C2375: 'bind': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(739): note: see declaration of 'bind'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1691): error C2375: 'closesocket': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(744): note: see declaration of 'closesocket'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1710): error C2375: 'connect': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(746): note: see declaration of 'connect'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1731): error C2375: 'ioctlsocket': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(751): note: see declaration of 'ioctlsocket'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1752): error C2375: 'getpeername': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(756): note: see declaration of 'getpeername'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1773): error C2375: 'getsockname': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(761): note: see declaration of 'getsockname'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1796): error C2375: 'getsockopt': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(766): note: see declaration of 'getsockopt'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1817): error C2375: 'htonl': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(773): note: see declaration of 'htonl'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1834): error C2375: 'htons': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(775): note: see declaration of 'htons'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1852): error C2375: 'inet_addr': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(777): note: see declaration of 'inet_addr'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1870): error C2375: 'inet_ntoa': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(779): note: see declaration of 'inet_ntoa'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1971): error C2375: 'listen': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(781): note: see declaration of 'listen'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1989): error C2375: 'ntohl': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(785): note: see declaration of 'ntohl'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2006): error C2375: 'ntohs': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(787): note: see declaration of 'ntohs'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2026): error C2375: 'recv': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(789): note: see declaration of 'recv'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2051): error C2375: 'recvfrom': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(795): note: see declaration of 'recvfrom'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2077): error C2375: 'select': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(803): note: see declaration of 'select'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2101): error C2375: 'send': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(810): note: see declaration of 'send'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2126): error C2375: 'sendto': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(816): note: see declaration of 'sendto'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2152): error C2375: 'setsockopt': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(824): note: see declaration of 'setsockopt'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2174): error C2375: 'shutdown': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(831): note: see declaration of 'shutdown'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2195): error C2375: 'socket': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(835): note: see declaration of 'socket'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2220): error C2375: 'gethostbyaddr': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(842): note: see declaration of 'gethostbyaddr'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2240): error C2375: 'gethostbyname': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(847): note: see declaration of 'gethostbyname'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2258): error C2375: 'gethostname': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(849): note: see declaration of 'gethostname'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2298): error C2375: 'getservbyport': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(853): note: see declaration of 'getservbyport'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2317): error C2375: 'getservbyname': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(857): note: see declaration of 'getservbyname'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2335): error C2375: 'getprotobynumber': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(861): note: see declaration of 'getprotobynumber'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2352): error C2375: 'getprotobyname': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(863): note: see declaration of 'getprotobyname'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2373): error C2375: 'WSAStartup': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(867): note: see declaration of 'WSAStartup'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2392): error C2375: 'WSACleanup': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(871): note: see declaration of 'WSACleanup'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2409): error C2375: 'WSASetLastError': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(873): note: see declaration of 'WSASetLastError'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2426): error C2375: 'WSAGetLastError': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(875): note: see declaration of 'WSAGetLastError'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2447): error C2375: 'WSAIsBlocking': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(877): note: see declaration of 'WSAIsBlocking'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2465): error C2375: 'WSAUnhookBlockingHook': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(879): note: see declaration of 'WSAUnhookBlockingHook'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2483): error C2375: 'WSASetBlockingHook': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(881): note: see declaration of 'WSASetBlockingHook'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2501): error C2375: 'WSACancelBlockingCall': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(883): note: see declaration of 'WSACancelBlockingCall'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2524): error C2375: 'WSAAsyncGetServByName': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(885): note: see declaration of 'WSAAsyncGetServByName'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2552): error C2375: 'WSAAsyncGetServByPort': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(893): note: see declaration of 'WSAAsyncGetServByPort'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2579): error C2375: 'WSAAsyncGetProtoByName': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(901): note: see declaration of 'WSAAsyncGetProtoByName'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2605): error C2375: 'WSAAsyncGetProtoByNumber': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(908): note: see declaration of 'WSAAsyncGetProtoByNumber'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2631): error C2375: 'WSAAsyncGetHostByName': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(915): note: see declaration of 'WSAAsyncGetHostByName'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2659): error C2375: 'WSAAsyncGetHostByAddr': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(922): note: see declaration of 'WSAAsyncGetHostByAddr'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2683): error C2375: 'WSACancelAsyncRequest': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(931): note: see declaration of 'WSACancelAsyncRequest'
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2704): error C2375: 'WSAAsyncSelect': redefinition; different linkage
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h(933): note: see declaration of 'WSAAsyncSelect'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(321): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(333): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(333): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(333): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(334): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(334): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(334): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(336): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(341): error C2059: syntax error: 'return'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(342): error C2059: syntax error: '}'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(373): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(373): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(385): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(385): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(386): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(386): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(390): error C2065: 'name': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(390): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(395): error C2059: syntax error: 'return'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_cert.c(396): error C2059: syntax error: '}'
+  ssl_cipher.c
+  ssl_ecdh.c
+  ssl_file.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(128): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(128): error C2143: syntax error: missing '{' before '*'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(128): error C2059: syntax error: '<parameter-list>'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(137): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(137): error C2296: '*': illegal, left operand has type 'LPCSTR'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(140): error C2065: 'xname_cmp': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(140): error C2059: syntax error: '<cv-qualifer>'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(163): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(163): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(164): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(164): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(169): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(169): warning C4047: 'function': 'X509_NAME *' differs in levels of indirection from 'int'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(169): warning C4024: 'X509_NAME_dup': different types for formal and actual parameter 1
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(169): warning C4047: '=': 'int' differs in levels of indirection from 'X509_NAME *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(170): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(170): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(173): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(173): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(175): error C2181: illegal else without matching if
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(176): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(176): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(177): error C2065: 'xn': undeclared identifier
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(177): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(181): error C2059: syntax error: 'if'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2143: syntax error: missing ')' before '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2091: function returns function
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2059: syntax error: ')'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2059: syntax error: 'constant'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2143: syntax error: missing ')' before '?'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2143: syntax error: missing '{' before '?'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(187): error C2059: syntax error: '?'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(189): error C2371: 'X509_free': redefinition; different basic types
+  D:\cmakeTF\tensorflow0.8\third_party\grpc\third_party\boringssl\include\openssl/x509.h(779): note: see declaration of 'X509_free'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(190): error C2059: syntax error: 'if'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(193): error C2059: syntax error: 'return'
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_file.c(194): error C2059: syntax error: '}'
+  ssl_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_lib.c(343): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_lib.c(504): error C2059: syntax error: '('
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_lib.c(1585): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_lib.c(1646): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ssl_rsa.c
+  ssl_session.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_session.c(378): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\ssl_session.c(401): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  ssl_stat.c
+  t1_enc.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_enc.c(198): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  t1_lib.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(454): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(1016): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(1273): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(1508): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(1640): warning C4244: 'function': conversion from 'const unsigned long' to 'uint16_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(1754): warning C4244: 'function': conversion from 'const unsigned long' to 'uint16_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(2138): warning C4267: 'function': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\t1_lib.c(2546): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  tls_record.c
+D:\cmakeTF\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\boringssl\ssl\tls_record.c(309): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data

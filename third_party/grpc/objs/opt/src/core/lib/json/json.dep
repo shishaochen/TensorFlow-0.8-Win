@@ -1,0 +1,5 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/json/json.o: \
+ src/core/lib/json/json.c include/grpc/support/alloc.h \
+ include/grpc/impl/codegen/alloc.h \
+ include/grpc/impl/codegen/port_platform.h src/core/lib/json/json.h \
+ src/core/lib/json/json_common.h

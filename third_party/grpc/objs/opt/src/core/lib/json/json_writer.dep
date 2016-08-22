@@ -1,0 +1,4 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/json/json_writer.o: \
+ src/core/lib/json/json_writer.c include/grpc/support/port_platform.h \
+ include/grpc/impl/codegen/port_platform.h \
+ src/core/lib/json/json_writer.h src/core/lib/json/json_common.h

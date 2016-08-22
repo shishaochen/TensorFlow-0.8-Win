@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>gtest</id>
+    <version>1.7.0.1</version>
+    <title>Google Test</title>
+    <authors>Google</authors>
+    <owners>Google</owners>
+    <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+    <projectUrl>https://code.google.com/p/googletest/</projectUrl>
+    <iconUrl>https://ssl.gstatic.com/codesite/ph/images/search-48.gif%0A%09%09requireLicenseAcceptance:%20false</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Google's testing framework</description>
+    <summary>Google Test</summary>
+    <releaseNotes>Initial upload</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>native google test gtest nativepackage</tags>
+  </metadata>
+</package>

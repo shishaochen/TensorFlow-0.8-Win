@@ -1,0 +1,10 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/support/avl.o: \
+ src/core/lib/support/avl.c include/grpc/support/avl.h \
+ include/grpc/support/sync.h include/grpc/impl/codegen/sync.h \
+ include/grpc/impl/codegen/port_platform.h \
+ include/grpc/impl/codegen/sync_generic.h include/grpc/impl/codegen/atm.h \
+ include/grpc/impl/codegen/atm_gcc_atomic.h \
+ include/grpc/impl/codegen/sync_posix.h include/grpc/impl/codegen/time.h \
+ include/grpc/support/alloc.h include/grpc/impl/codegen/alloc.h \
+ include/grpc/support/string_util.h include/grpc/support/port_platform.h \
+ include/grpc/support/useful.h

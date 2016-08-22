@@ -1,0 +1,9 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/cipher/derive_key.o: \
+ third_party/boringssl/crypto/cipher/derive_key.c \
+ third_party/boringssl/include/openssl/cipher.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/digest.h \
+ third_party/boringssl/include/openssl/mem.h \
+ third_party/boringssl/crypto/cipher/internal.h \
+ third_party/boringssl/include/openssl/aead.h

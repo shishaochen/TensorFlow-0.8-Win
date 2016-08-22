@@ -1,0 +1,1 @@
+swig -c++ -python -module pywrap_tensorflow -o tensorflow/python/pywrap_tensorflow.cc tensorflow/python/tensorflow.i

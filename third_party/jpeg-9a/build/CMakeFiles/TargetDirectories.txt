@@ -1,0 +1,8 @@
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/package.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/jpeg.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/package_source.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/edit_cache.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/install.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/install/local.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/rebuild_cache.dir
+D:/cmakeTF/tensorflow0.8/third_party/jpeg-9a/build/CMakeFiles/list_install_components.dir

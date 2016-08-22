@@ -1,0 +1,8 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/src/core/lib/tsi/fake_transport_security.o: \
+ src/core/lib/tsi/fake_transport_security.c \
+ src/core/lib/tsi/fake_transport_security.h \
+ src/core/lib/tsi/transport_security_interface.h \
+ include/grpc/support/alloc.h include/grpc/impl/codegen/alloc.h \
+ include/grpc/impl/codegen/port_platform.h include/grpc/support/log.h \
+ include/grpc/impl/codegen/log.h include/grpc/support/port_platform.h \
+ include/grpc/support/useful.h src/core/lib/tsi/transport_security.h

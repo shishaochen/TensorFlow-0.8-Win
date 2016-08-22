@@ -1,0 +1,19 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/matrix_function.cpp"
+		},
+		
+		{
+			"file" : "D:/tensorflow0.8/third_party/eigen-eigen-50812b426b7c/unsupported/test/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildUnsupported" ],
+		"name" : "matrix_function_3"
+	}
+}

@@ -1,0 +1,15 @@
+/d/cmakeTF/tensorflow0.8/third_party/grpc/objs/opt/third_party/boringssl/crypto/evp/sign.o: \
+ third_party/boringssl/crypto/evp/sign.c \
+ third_party/boringssl/include/openssl/evp.h \
+ third_party/boringssl/include/openssl/base.h \
+ third_party/boringssl/include/openssl/opensslfeatures.h \
+ third_party/boringssl/include/openssl/thread.h \
+ third_party/boringssl/include/openssl/aead.h \
+ third_party/boringssl/include/openssl/base64.h \
+ third_party/boringssl/include/openssl/cipher.h \
+ third_party/boringssl/include/openssl/digest.h \
+ third_party/boringssl/include/openssl/obj.h \
+ third_party/boringssl/include/openssl/bytestring.h \
+ third_party/boringssl/include/openssl/obj_mac.h \
+ third_party/boringssl/include/openssl/err.h \
+ third_party/boringssl/crypto/evp/internal.h

@@ -1,0 +1,5 @@
+﻿  python_plugin.cc
+  Generating code
+  All 898 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  grpc_python_plugin.vcxproj -> E:\msvc\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_python_plugin.exe

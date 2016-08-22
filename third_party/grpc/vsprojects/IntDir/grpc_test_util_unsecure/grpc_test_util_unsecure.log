@@ -1,0 +1,35 @@
+﻿Build started 5/19/2016 3:05:24 PM.
+     1>Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\grpc_test_util_unsecure\grpc_test_util_unsecure.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\tensorflow0.8\third_party\grpc\vsprojects\\.. /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\..\third_party\protobuf\src /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.zlib.1.2.8.10\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\grpc.dependencies.openssl.1.0.204.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gflags.2.1.2.1\build\native\include /ID:\tensorflow0.8\third_party\grpc\vsprojects\\packages\gtest.1.7.0.1\build\native\include /Zi /nologo /W3 /WX /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _LIB /D _WIN32_WINNT=0x600 /D _SCL_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\\" /Fd"D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\vc120.pdb" /Gd /TC /errorReport:prompt D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\end2end\cq_verifier.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\end2end\fixtures\proxy.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\iomgr\endpoint_tests.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\grpc_profiler.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\memory_counters.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\mock_endpoint.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\parse_hexstring.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\passthru_endpoint.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\port_posix.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\port_server_client.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\port_windows.c D:\tensorflow0.8\third_party\grpc\vsprojects\\..\test\core\util\slice_splitter.c
+         cq_verifier.c
+         proxy.c
+         endpoint_tests.c
+         grpc_profiler.c
+         memory_counters.c
+         mock_endpoint.c
+         parse_hexstring.c
+         passthru_endpoint.c
+         port_posix.c
+         port_server_client.c
+         port_windows.c
+         slice_splitter.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_test_util_unsecure.lib" /NOLOGO /MACHINE:X64 /LTCG D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\cq_verifier.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\proxy.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\endpoint_tests.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\grpc_profiler.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\memory_counters.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\mock_endpoint.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\parse_hexstring.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\passthru_endpoint.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\port_posix.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\port_server_client.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\port_windows.obj
+         D:\tensorflow0.8\third_party\grpc\vsprojects\IntDir\grpc_test_util_unsecure\slice_splitter.obj
+         grpc_test_util_unsecure.vcxproj -> D:\tensorflow0.8\third_party\grpc\vsprojects\x64\Release\grpc_test_util_unsecure.lib
+     1>Done Building Project "D:\tensorflow0.8\third_party\grpc\vsprojects\vcxproj\grpc_test_util_unsecure\grpc_test_util_unsecure.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.60
