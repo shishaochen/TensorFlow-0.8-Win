@@ -1,19 +1,19 @@
-TensorFlow-0.8-Win is a ported version of Google's Tensorflow-0.8 which can directly run on Windows.
-This build supports distributed runtime with multiple machines but it does not involve GPU part of codes.
+TensorFlow-0.8-Win is a ported version of Google's Tensorflow-0.8 which can directly run on Windows. <br>
+This build supports distributed runtime with multiple machines but it does not involve GPU part of codes. <br>
 
 ## How to build it on Windows?
 
-[Prequisite]
-1. Visual Studio 2015
-2. CMake 3.6
+[Prequisite] <br>
+1. Visual Studio 2015 <br>
+2. CMake 3.6 <br>
 
 [Step]
-1. Open "VS2015 x64 Native Tools Command Prompt"
-2. Set "PROJECT_ROOT" where you store this project and nter commands:
-    cd %PROJECT_ROOT% && mkdir release && cd release
-    cmake -G "NMake Makefiles" -DCMAKE_BUILD_TYPE=Release .. && nmake
-    cd .. && .\runpip_package.bat
-3. Now you can see tensorflow-0.8.1-py3-none-win_amd64.whl in "%PROJECT_ROOT%\release\wheel\dist"
+1. Open "VS2015 x64 Native Tools Command Prompt" <br>
+2. Set "PROJECT_ROOT" where you store this project and nter commands: <br>
+    cd %PROJECT_ROOT% && mkdir release && cd release <br>
+    cmake -G "NMake Makefiles" -DCMAKE_BUILD_TYPE=Release .. && nmake <br>
+    cd .. && .\runpip_package.bat <br>
+3. Now you can see tensorflow-0.8.1-py3-none-win_amd64.whl in "%PROJECT_ROOT%\release\wheel\dist" <br>
 
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
